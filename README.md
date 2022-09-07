@@ -14,5 +14,5 @@
 
 
 > 🍟 파라핀 치료 가이드 앱
->  
+>  https://github.com/zerobbang/Parafin_App_Auto
 <br>
