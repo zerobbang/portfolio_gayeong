@@ -1,4 +1,4 @@
-# portfolio_gayeong
+# portfolio_gayeong (임시)
 > 🍕 천체 관측자들을 위한 웹 싸이트
 > https://github.com/zerobbang/star_project
 
